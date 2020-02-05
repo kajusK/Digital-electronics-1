@@ -1,4 +1,6 @@
 ssdsad
+oisfdigxdf 
+
     | **A** | **NOT** |
     | :-: | :-: |
     | 0 | 1 |
